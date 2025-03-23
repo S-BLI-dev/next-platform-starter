@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.myheader {
+    background-color: blue;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.banner img{
+    width: 100%;
+    height: auto;
+
+}
+
+.fruits {
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+    margin-bottom: 60px;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+
+.fruit-section22 {
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+}
+
+footer, .myheader {
+    text-size-adjust: 10px;
+    text-align: center;
+    background-color: blue;
+    padding-top: 23px;
+    padding-bottom: 15px;
+    color: white;
+}
